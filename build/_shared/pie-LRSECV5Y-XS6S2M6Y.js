@@ -1,1 +1,1 @@
-import{a as e,b as r}from"C:/Program Files/Git/proyecto_final_ml/build/_shared/chunk-4YW2MXOW.js";import"C:/Program Files/Git/proyecto_final_ml/build/_shared/chunk-GEZIJWLJ.js";import"C:/Program Files/Git/proyecto_final_ml/build/_shared/chunk-RAQ24GF6.js";export{e as PieModule,r as createPieServices};
+import{a as e,b as r}from"/proyecto_final_ml/build/_shared/chunk-4YW2MXOW.js";import"/proyecto_final_ml/build/_shared/chunk-GEZIJWLJ.js";import"/proyecto_final_ml/build/_shared/chunk-RAQ24GF6.js";export{e as PieModule,r as createPieServices};

@@ -1,1 +1,1 @@
-import{b as i}from"C:/Program Files/Git/proyecto_final_ml/build/_shared/chunk-DYFJVR7X.js";function t(c,e){c.accDescr&&e.setAccDescription?.(c.accDescr),c.accTitle&&e.setAccTitle?.(c.accTitle),c.title&&e.setDiagramTitle?.(c.title)}i(t,"populateCommonDb");export{t as a};
+import{b as i}from"/proyecto_final_ml/build/_shared/chunk-DYFJVR7X.js";function t(c,e){c.accDescr&&e.setAccDescription?.(c.accDescr),c.accTitle&&e.setAccTitle?.(c.accTitle),c.title&&e.setDiagramTitle?.(c.title)}i(t,"populateCommonDb");export{t as a};

@@ -1,1 +1,1 @@
-import{a}from"C:/Program Files/Git/proyecto_final_ml/build/_shared/chunk-Z7LJC5RR.js";import"C:/Program Files/Git/proyecto_final_ml/build/_shared/chunk-DEQLTPBL.js";import"C:/Program Files/Git/proyecto_final_ml/build/_shared/chunk-RAQ24GF6.js";export default a();
+import{a}from"/proyecto_final_ml/build/_shared/chunk-Z7LJC5RR.js";import"/proyecto_final_ml/build/_shared/chunk-DEQLTPBL.js";import"/proyecto_final_ml/build/_shared/chunk-RAQ24GF6.js";export default a();
