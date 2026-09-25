@@ -1,1 +1,1 @@
-import{a}from"/proyecto_final_ml/build/_shared/chunk-G4CIZGJN.js";import"/proyecto_final_ml/build/_shared/chunk-RAQ24GF6.js";export default a();
+import{a}from"/build/_shared/chunk-G4CIZGJN.js";import"/build/_shared/chunk-RAQ24GF6.js";export default a();
